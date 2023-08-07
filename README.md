@@ -6,7 +6,7 @@ The [Coordinate Attention](https://arxiv.org/pdf/2103.02907.pdf) module, as prop
 A PyTorch-implemented coordinate attention block was used.
 (https://github.com/xmu-xiaoma666/External-Attention-pytorch/blob/master/model/attention/CoordAttention.py)
 
-<img src="yolo_ca_pic.png" width="100px" height="50px" title="YOLOv8_with_CA)"/>
+<img src="yolo_ca_pic.png" width="1000px" height="800px" title="YOLOv8_with_CA)"></img>
 
 ### Modifications to the original code
 **[1] Addition of the block to be used**
