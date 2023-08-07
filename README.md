@@ -27,3 +27,6 @@ A PyTorch-implemented coordinate attention block was used.
 
 ### Note
 The current yolov8.yaml file is written based on the nano model. If you wish to use other sizes of models such as s, l, xl, etc., you must modify the arguments going into the CoordAtt block in yolov8.yaml.
+
+### If you want to add other block into YOLOv8
+How about referring to this post? ([link]) 
