@@ -1,5 +1,5 @@
 # yolov8-with-coordinate_attention
-This project has modified the following repository by ultralytics (link).
+This project has modified the following repository by ultralytics ([link](https://github.com/ultralytics/ultralytics)).
 
 The [Coordinate Attention](https://arxiv.org/pdf/2103.02907.pdf) module, as proposed, has been applied to the yolov8 model.
 
